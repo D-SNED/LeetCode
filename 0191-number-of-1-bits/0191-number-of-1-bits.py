@@ -1,6 +1,6 @@
 class Solution:
     def hammingWeight(self, n: int) -> int:
-        n = bin(n)
+        n = str(bin(n))
         
         num_1s = 0
         
