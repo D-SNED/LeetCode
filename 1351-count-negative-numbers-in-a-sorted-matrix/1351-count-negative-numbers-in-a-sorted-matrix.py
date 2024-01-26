@@ -6,7 +6,6 @@ class Solution:
         num_index = 0
         
         while row_index >= 0 and num_index < len(grid[0]):
-            print(row_index, num_index)
             if grid[row_index][num_index] < 0:
                 num_neg += len(grid[0]) - num_index
                 row_index -= 1
@@ -15,9 +14,6 @@ class Solution:
                 
         return num_neg
                 
-                
-            
-        return num_neg
         
         
 #         num_neg = 0
