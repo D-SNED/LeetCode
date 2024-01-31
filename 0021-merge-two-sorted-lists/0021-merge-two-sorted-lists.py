@@ -19,7 +19,10 @@ class Solution:
             
             current = current.next
 
-        current.next = list1 or list2
+        if not list1:
+            current.next = list2
+        else:
+            current.next = list1
 
         return dummy.next
                 
