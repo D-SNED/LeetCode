@@ -1,0 +1,34 @@
+<h2><a href="https://leetcode.com/problems/merge-two-sorted-lists/">21. Merge Two Sorted Lists</a></h2><h3>Easy</h3><hr><div><p class="extension-adhd-reader-p"><span class="extension-adhd-reader-wrapper"><span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">Y</span>ou</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">a</span>re</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">g</span>iven</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">t</span>he</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">h</span>eads</span> of <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">t</span>wo</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">so</span>rted</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">li</span>nked</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">l</span>ists</span> </span><code><span class="extension-adhd-reader-wrapper"><span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">l</span>ist1</span></span></code><span class="extension-adhd-reader-wrapper"> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">a</span>nd</span> </span><code><span class="extension-adhd-reader-wrapper"><span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">l</span>ist2</span></span></code>.</p>
+
+<p class="extension-adhd-reader-p"><span class="extension-adhd-reader-wrapper"><span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">M</span>erge</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">t</span>he</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">t</span>wo</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">l</span>ists</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">i</span>nto</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">o</span>ne</span> </span><strong><span class="extension-adhd-reader-wrapper"><span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">so</span>rted</span></span></strong><span class="extension-adhd-reader-wrapper"> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">l</span>ist.</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">T</span>he</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">l</span>ist</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">sh</span>ould</span> be <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">m</span>ade</span> by <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">sp</span>licing</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">to</span>gether</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">t</span>he</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">n</span>odes</span> of <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">t</span>he</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">f</span>irst</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">t</span>wo</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">li</span>sts.</span></span></p>
+
+<p class="extension-adhd-reader-p"><span class="extension-adhd-reader-wrapper"><span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">Re</span>turn</span> </span><em><span class="extension-adhd-reader-wrapper"><span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">t</span>he</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">h</span>ead</span> of <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">t</span>he</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">me</span>rged</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">li</span>nked</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">l</span>ist</span></span></em>.</p>
+
+<p class="extension-adhd-reader-p">&nbsp;</p>
+<p class="extension-adhd-reader-p"><strong class="example"><span class="extension-adhd-reader-wrapper"><span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">Ex</span>ample</span> 1:</span></strong></p>
+<img alt="" src="https://assets.leetcode.com/uploads/2020/10/03/merge_ex1.jpg" style="width: 662px; height: 302px;">
+<pre><strong>Input:</strong> list1 = [1,2,4], list2 = [1,3,4]
+<strong>Output:</strong> [1,1,2,3,4,4]
+</pre>
+
+<p class="extension-adhd-reader-p"><strong class="example"><span class="extension-adhd-reader-wrapper"><span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">Ex</span>ample</span> 2:</span></strong></p>
+
+<pre><strong>Input:</strong> list1 = [], list2 = []
+<strong>Output:</strong> []
+</pre>
+
+<p class="extension-adhd-reader-p"><strong class="example"><span class="extension-adhd-reader-wrapper"><span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">Ex</span>ample</span> 3:</span></strong></p>
+
+<pre><strong>Input:</strong> list1 = [], list2 = [0]
+<strong>Output:</strong> [0]
+</pre>
+
+<p class="extension-adhd-reader-p">&nbsp;</p>
+<p class="extension-adhd-reader-p"><strong><span class="extension-adhd-reader-wrapper"><span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">Cons</span>traints:</span></span></strong></p>
+
+<ul>
+	<li>The number of nodes in both lists is in the range <code>[0, 50]</code>.</li>
+	<li><code>-100 &lt;= Node.val &lt;= 100</code></li>
+	<li>Both <code>list1</code> and <code>list2</code> are sorted in <strong>non-decreasing</strong> order.</li>
+</ul>
+</div>
