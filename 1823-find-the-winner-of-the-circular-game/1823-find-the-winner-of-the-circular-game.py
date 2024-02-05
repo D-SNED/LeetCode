@@ -10,15 +10,24 @@ class Solution:
 #            nums.remove(nums[j])
 #         return nums[0]
 
-        l = list(range(1, n +1))
-        start = 0
+#         l = list(range(1, n +1))
+#         start = 0
         
-        while len(l) != 1:
-            start = (start + k -1) % len(l)
-            l.pop(start)
-        return l[0]
+#         while len(l) != 1:
+#             start = (start + k -1) % len(l)
+#             l.pop(start)
+#             print(l)
+#         return l[0]
                 
-            
+        arr=[i for i in range(1,n+1)]
+        def solve(arr,k,index):
+            if len(arr)==1:
+                return arr[0] 
+            index=(index+(k-1))%len(arr)
+            arr.pop(index)
+            return solve(arr,k,index)
+        return solve(arr,k,0)
+        
         
         
             
