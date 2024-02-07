@@ -3,16 +3,14 @@ class Solution:
         word_lst = s.split(' ')
         print(word_lst)
         
-        result = []
+        ref = 0
         
         for word in word_lst:
             if word.isdigit():
-                result.append(int(word))
+                if int(word) <= ref:
+                    return False
+                ref = int(word)
                 
-        for i in range(len(result) - 1):
-            if result[i] >= result[i + 1]:
-                return False
-            
         return True
             
             
