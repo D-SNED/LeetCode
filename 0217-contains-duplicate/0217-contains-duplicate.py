@@ -7,4 +7,3 @@ class Solution:
                 _set.add(num)
             else:
                 return True
-        return False
