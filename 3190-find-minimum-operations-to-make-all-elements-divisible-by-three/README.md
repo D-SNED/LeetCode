@@ -1,0 +1,39 @@
+<h2><a href="https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/">3190. Find Minimum Operations to Make All Elements Divisible by Three</a></h2><h3>Easy</h3><hr><div><p class="extension-adhd-reader-p"><span class="extension-adhd-reader-wrapper"><span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">Y</span>ou</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">a</span>re</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">g</span>iven</span> an <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">in</span>teger</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">a</span>rray</span> </span><code><span class="extension-adhd-reader-wrapper"><span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">n</span>ums</span></span></code><span class="extension-adhd-reader-wrapper">. In <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">o</span>ne</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">ope</span>ration,</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">y</span>ou</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">c</span>an</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">a</span>dd</span> or <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">su</span>btract</span> 1 <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">f</span>rom</span> </span><strong><span class="extension-adhd-reader-wrapper"><span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">a</span>ny</span></span></strong><span class="extension-adhd-reader-wrapper"> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">el</span>ement</span> of </span><code><span class="extension-adhd-reader-wrapper"><span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">n</span>ums</span></span></code>.</p>
+
+<p class="extension-adhd-reader-p"><span class="extension-adhd-reader-wrapper"><span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">Re</span>turn</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">t</span>he</span> </span><strong><span class="extension-adhd-reader-wrapper"><span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">mi</span>nimum</span></span></strong><span class="extension-adhd-reader-wrapper"> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">nu</span>mber</span> of <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">ope</span>rations</span> to <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">m</span>ake</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">a</span>ll</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">el</span>ements</span> of </span><code><span class="extension-adhd-reader-wrapper"><span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">n</span>ums</span></span></code><span class="extension-adhd-reader-wrapper"> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">div</span>isible</span> by 3.</span></p>
+
+<p class="extension-adhd-reader-p">&nbsp;</p>
+<p class="extension-adhd-reader-p"><strong class="example"><span class="extension-adhd-reader-wrapper"><span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">Ex</span>ample</span> 1:</span></strong></p>
+
+<div class="example-block">
+<p class="extension-adhd-reader-p"><strong><span class="extension-adhd-reader-wrapper"><span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">In</span>put:</span></span></strong> <span class="example-io"><span class="extension-adhd-reader-wrapper"><span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">n</span>ums</span> = <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">[1,</span>2,3,4]</span></span></span></p>
+
+<p class="extension-adhd-reader-p"><strong><span class="extension-adhd-reader-wrapper"><span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">Ou</span>tput:</span></span></strong> <span class="example-io">3</span></p>
+
+<p class="extension-adhd-reader-p"><strong><span class="extension-adhd-reader-wrapper"><span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">Expl</span>anation:</span></span></strong></p>
+
+<p class="extension-adhd-reader-p"><span class="extension-adhd-reader-wrapper"><span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">A</span>ll</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">a</span>rray</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">el</span>ements</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">c</span>an</span> be <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">m</span>ade</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">div</span>isible</span> by 3 <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">u</span>sing</span> 3 <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">ope</span>rations:</span></span></p>
+
+<ul>
+	<li>Subtract 1 from 1.</li>
+	<li>Add 1 to 2.</li>
+	<li>Subtract 1 from 4.</li>
+</ul>
+</div>
+
+<p class="extension-adhd-reader-p"><strong class="example"><span class="extension-adhd-reader-wrapper"><span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">Ex</span>ample</span> 2:</span></strong></p>
+
+<div class="example-block">
+<p class="extension-adhd-reader-p"><strong><span class="extension-adhd-reader-wrapper"><span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">In</span>put:</span></span></strong> <span class="example-io"><span class="extension-adhd-reader-wrapper"><span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">n</span>ums</span> = <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">[3</span>,6,9]</span></span></span></p>
+
+<p class="extension-adhd-reader-p"><strong><span class="extension-adhd-reader-wrapper"><span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">Ou</span>tput:</span></span></strong> <span class="example-io">0</span></p>
+</div>
+
+<p class="extension-adhd-reader-p">&nbsp;</p>
+<p class="extension-adhd-reader-p"><strong><span class="extension-adhd-reader-wrapper"><span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">Cons</span>traints:</span></span></strong></p>
+
+<ul>
+	<li><code>1 &lt;= nums.length &lt;= 50</code></li>
+	<li><code>1 &lt;= nums[i] &lt;= 50</code></li>
+</ul>
+</div>
