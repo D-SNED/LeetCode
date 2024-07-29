@@ -1,0 +1,18 @@
+<h2><a href="https://leetcode.com/problems/defanging-an-ip-address/">1108. Defanging an IP Address</a></h2><h3>Easy</h3><hr><div><p class="extension-adhd-reader-p"><span class="extension-adhd-reader-wrapper"><span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">G</span>iven</span> a <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">v</span>alid</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">(I</span>Pv4)</span> IP </span><code><span class="extension-adhd-reader-wrapper"><span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">ad</span>dress</span></span></code><span class="extension-adhd-reader-wrapper">, <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">re</span>turn</span> a <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">de</span>fanged</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">ve</span>rsion</span> of <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">t</span>hat</span> IP <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">ad</span>dress.</span></span></p>
+
+<p class="extension-adhd-reader-p">A <em><span class="extension-adhd-reader-wrapper"><span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">de</span>fanged</span>&nbsp;IP <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">ad</span>dress</span></span></em><span class="extension-adhd-reader-wrapper">&nbsp;<span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">re</span>places</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">e</span>very</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">pe</span>riod</span> </span><code><span class="extension-adhd-reader-wrapper"><span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">"</span>."</span></span></code><span class="extension-adhd-reader-wrapper"> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">w</span>ith</span> </span><code><span class="extension-adhd-reader-wrapper"><span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">"</span>[.]"</span></span></code>.</p>
+
+<p class="extension-adhd-reader-p">&nbsp;</p>
+<p class="extension-adhd-reader-p"><strong class="example"><span class="extension-adhd-reader-wrapper"><span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">Ex</span>ample</span> 1:</span></strong></p>
+<pre><strong>Input:</strong> address = "1.1.1.1"
+<strong>Output:</strong> "1[.]1[.]1[.]1"
+</pre><p class="extension-adhd-reader-p"><strong class="example"><span class="extension-adhd-reader-wrapper"><span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">Ex</span>ample</span> 2:</span></strong></p>
+<pre><strong>Input:</strong> address = "255.100.50.0"
+<strong>Output:</strong> "255[.]100[.]50[.]0"
+</pre>
+<p class="extension-adhd-reader-p">&nbsp;</p>
+<p class="extension-adhd-reader-p"><strong><span class="extension-adhd-reader-wrapper"><span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">Cons</span>traints:</span></span></strong></p>
+
+<ul>
+	<li>The given <code>address</code> is a valid IPv4 address.</li>
+</ul></div>
