@@ -3,7 +3,7 @@ class Solution:
         res = ""
         
         for char in s:
-            if char.isalpha() or char.isnumeric():
+            if char.isalnum():
                 res += char.lower()
                 
         return res == res[::-1]
