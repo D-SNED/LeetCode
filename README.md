@@ -25,4 +25,12 @@ A repo for all my LeetCode problems
 |  |
 | ------- |
 | [1786-count-the-number-of-consistent-strings](https://github.com/D-SNED/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/D-SNED/LeetCode/tree/master/0069-sqrtx) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/D-SNED/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
