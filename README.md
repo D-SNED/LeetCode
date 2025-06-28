@@ -39,10 +39,12 @@ A repo for all my LeetCode problems
 | [0278-first-bad-version](https://github.com/D-SNED/LeetCode/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/D-SNED/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/D-SNED/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/D-SNED/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 ## Interactive
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/D-SNED/LeetCode/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/D-SNED/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 ## Two Pointers
 |  |
 | ------- |
