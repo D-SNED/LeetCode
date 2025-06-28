@@ -31,12 +31,14 @@ A repo for all my LeetCode problems
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/D-SNED/LeetCode/tree/master/0069-sqrtx) |
+| [0367-valid-perfect-square](https://github.com/D-SNED/LeetCode/tree/master/0367-valid-perfect-square) |
 ## Binary Search
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/D-SNED/LeetCode/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/D-SNED/LeetCode/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/D-SNED/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0367-valid-perfect-square](https://github.com/D-SNED/LeetCode/tree/master/0367-valid-perfect-square) |
 ## Interactive
 |  |
 | ------- |
