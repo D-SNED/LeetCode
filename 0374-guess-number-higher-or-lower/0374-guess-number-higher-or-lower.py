@@ -21,3 +21,5 @@ class Solution:
 
             else:
                 hi = num -1
+
+        return -1
