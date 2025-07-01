@@ -13,6 +13,7 @@ A repo for all my LeetCode problems
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/D-SNED/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0792-binary-search](https://github.com/D-SNED/LeetCode/tree/master/0792-binary-search) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/D-SNED/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Hash Table
 |  |
@@ -40,6 +41,7 @@ A repo for all my LeetCode problems
 | [0349-intersection-of-two-arrays](https://github.com/D-SNED/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/D-SNED/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/D-SNED/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+| [0792-binary-search](https://github.com/D-SNED/LeetCode/tree/master/0792-binary-search) |
 ## Interactive
 |  |
 | ------- |
