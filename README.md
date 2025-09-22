@@ -6,6 +6,7 @@ A repo for all my LeetCode problems
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/D-SNED/LeetCode/tree/master/0242-valid-anagram) |
 | [0468-validate-ip-address](https://github.com/D-SNED/LeetCode/tree/master/0468-validate-ip-address) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/D-SNED/LeetCode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/D-SNED/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -22,6 +23,7 @@ A repo for all my LeetCode problems
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/D-SNED/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/D-SNED/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/D-SNED/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/D-SNED/LeetCode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/D-SNED/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -61,5 +63,6 @@ A repo for all my LeetCode problems
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/D-SNED/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/D-SNED/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/D-SNED/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
