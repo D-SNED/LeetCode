@@ -13,6 +13,7 @@ A repo for all my LeetCode problems
 ## Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/D-SNED/LeetCode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/D-SNED/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/D-SNED/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/D-SNED/LeetCode/tree/master/0792-binary-search) |
@@ -20,6 +21,7 @@ A repo for all my LeetCode problems
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/D-SNED/LeetCode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/D-SNED/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/D-SNED/LeetCode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/D-SNED/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -58,5 +60,6 @@ A repo for all my LeetCode problems
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/D-SNED/LeetCode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/D-SNED/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
