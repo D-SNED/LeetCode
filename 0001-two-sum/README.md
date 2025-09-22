@@ -1,31 +1,34 @@
-<h2><a href="https://leetcode.com/problems/two-sum/">1. Two Sum</a></h2><h3>Easy</h3><hr><div><p class="extension-adhd-reader-p"><span class="extension-adhd-reader-wrapper"><span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">G</span>iven</span> an <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">a</span>rray</span> of <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">in</span>tegers</span> </span><code><span class="extension-adhd-reader-wrapper"><span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">n</span>ums</span></span></code><span class="extension-adhd-reader-wrapper">&nbsp;<span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">a</span>nd</span> an <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">in</span>teger</span> </span><code><span class="extension-adhd-reader-wrapper"><span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">ta</span>rget</span></span></code><span class="extension-adhd-reader-wrapper">, <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">re</span>turn</span> </span><em><span class="extension-adhd-reader-wrapper"><span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">in</span>dices</span> of <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">t</span>he</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">t</span>wo</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">nu</span>mbers</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">s</span>uch</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">t</span>hat</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">t</span>hey</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">a</span>dd</span> up to </span><code><span class="extension-adhd-reader-wrapper"><span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">ta</span>rget</span></span></code></em>.</p>
+<h2><a href="https://leetcode.com/problems/two-sum">1. Two Sum</a></h2><h3>Easy</h3><hr><p>Given an array of integers <code>nums</code>&nbsp;and an integer <code>target</code>, return <em>indices of the two numbers such that they add up to <code>target</code></em>.</p>
 
-<p class="extension-adhd-reader-p"><span class="extension-adhd-reader-wrapper"><span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">Y</span>ou</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">m</span>ay</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">as</span>sume</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">t</span>hat</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">e</span>ach</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">i</span>nput</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">w</span>ould</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">h</span>ave</span> </span><strong><em><span class="extension-adhd-reader-wrapper"><span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">ex</span>actly</span></span></em><span class="extension-adhd-reader-wrapper"> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">o</span>ne</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">so</span>lution</span></span></strong><span class="extension-adhd-reader-wrapper">, <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">a</span>nd</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">y</span>ou</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">m</span>ay</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">n</span>ot</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">u</span>se</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">t</span>he</span> </span><em><span class="extension-adhd-reader-wrapper"><span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">s</span>ame</span></span></em><span class="extension-adhd-reader-wrapper"> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">el</span>ement</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">tw</span>ice.</span></span></p>
+<p>You may assume that each input would have <strong><em>exactly</em> one solution</strong>, and you may not use the <em>same</em> element twice.</p>
 
-<p class="extension-adhd-reader-p"><span class="extension-adhd-reader-wrapper"><span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">Y</span>ou</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">c</span>an</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">re</span>turn</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">t</span>he</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">an</span>swer</span> in <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">a</span>ny</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">or</span>der.</span></span></p>
+<p>You can return the answer in any order.</p>
 
-<p class="extension-adhd-reader-p">&nbsp;</p>
-<p class="extension-adhd-reader-p"><strong class="example"><span class="extension-adhd-reader-wrapper"><span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">Ex</span>ample</span> 1:</span></strong></p>
+<p>&nbsp;</p>
+<p><strong class="example">Example 1:</strong></p>
 
-<pre><strong>Input:</strong> nums = [2,7,11,15], target = 9
+<pre>
+<strong>Input:</strong> nums = [2,7,11,15], target = 9
 <strong>Output:</strong> [0,1]
 <strong>Explanation:</strong> Because nums[0] + nums[1] == 9, we return [0, 1].
 </pre>
 
-<p class="extension-adhd-reader-p"><strong class="example"><span class="extension-adhd-reader-wrapper"><span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">Ex</span>ample</span> 2:</span></strong></p>
+<p><strong class="example">Example 2:</strong></p>
 
-<pre><strong>Input:</strong> nums = [3,2,4], target = 6
+<pre>
+<strong>Input:</strong> nums = [3,2,4], target = 6
 <strong>Output:</strong> [1,2]
 </pre>
 
-<p class="extension-adhd-reader-p"><strong class="example"><span class="extension-adhd-reader-wrapper"><span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">Ex</span>ample</span> 3:</span></strong></p>
+<p><strong class="example">Example 3:</strong></p>
 
-<pre><strong>Input:</strong> nums = [3,3], target = 6
+<pre>
+<strong>Input:</strong> nums = [3,3], target = 6
 <strong>Output:</strong> [0,1]
 </pre>
 
-<p class="extension-adhd-reader-p">&nbsp;</p>
-<p class="extension-adhd-reader-p"><strong><span class="extension-adhd-reader-wrapper"><span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">Cons</span>traints:</span></span></strong></p>
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
 
 <ul>
 	<li><code>2 &lt;= nums.length &lt;= 10<sup>4</sup></code></li>
@@ -34,5 +37,5 @@
 	<li><strong>Only one valid answer exists.</strong></li>
 </ul>
 
-<p class="extension-adhd-reader-p">&nbsp;</p>
-<strong>Follow-up:&nbsp;</strong>Can you come up with an algorithm that is less than <code>O(n<sup>2</sup>)</code><font face="monospace">&nbsp;</font>time complexity?</div>
+<p>&nbsp;</p>
+<strong>Follow-up:&nbsp;</strong>Can you come up with an algorithm that is less than <code>O(n<sup>2</sup>)</code><font face="monospace">&nbsp;</font>time complexity?
