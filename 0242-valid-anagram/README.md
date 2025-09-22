@@ -1,23 +1,29 @@
-<h2><a href="https://leetcode.com/problems/valid-anagram/">242. Valid Anagram</a></h2><h3>Easy</h3><hr><div><p class="extension-adhd-reader-p"><span class="extension-adhd-reader-wrapper"><span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">G</span>iven</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">t</span>wo</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">st</span>rings</span> </span><code>s</code><span class="extension-adhd-reader-wrapper"> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">a</span>nd</span> </span><code>t</code><span class="extension-adhd-reader-wrapper">, <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">re</span>turn</span> </span><code><span class="extension-adhd-reader-wrapper"><span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">t</span>rue</span></span></code> <em>if</em> <code>t</code> <em><span class="extension-adhd-reader-wrapper">is an <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">an</span>agram</span> of</span></em> <code>s</code><em><span class="extension-adhd-reader-wrapper">, <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">a</span>nd</span></span></em> <code><span class="extension-adhd-reader-wrapper"><span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">f</span>alse</span></span></code> <em><span class="extension-adhd-reader-wrapper"><span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">oth</span>erwise</span></span></em>.</p>
+<h2><a href="https://leetcode.com/problems/valid-anagram">242. Valid Anagram</a></h2><h3>Easy</h3><hr><p>Given two strings <code>s</code> and <code>t</code>, return <code>true</code> if <code>t</code> is an <span data-keyword="anagram">anagram</span> of <code>s</code>, and <code>false</code> otherwise.</p>
 
-<p class="extension-adhd-reader-p">An <strong><span class="extension-adhd-reader-wrapper"><span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">An</span>agram</span></span></strong><span class="extension-adhd-reader-wrapper"> is a <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">w</span>ord</span> or <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">ph</span>rase</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">fo</span>rmed</span> by <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">rea</span>rranging</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">t</span>he</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">le</span>tters</span> of a <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">dif</span>ferent</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">w</span>ord</span> or <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">ph</span>rase,</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">typ</span>ically</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">u</span>sing</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">a</span>ll</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">t</span>he</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">or</span>iginal</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">le</span>tters</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">ex</span>actly</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">o</span>nce.</span></span></p>
+<p>&nbsp;</p>
+<p><strong class="example">Example 1:</strong></p>
 
-<p class="extension-adhd-reader-p">&nbsp;</p>
-<p class="extension-adhd-reader-p"><strong class="example"><span class="extension-adhd-reader-wrapper"><span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">Ex</span>ample</span> 1:</span></strong></p>
-<pre><strong>Input:</strong> s = "anagram", t = "nagaram"
-<strong>Output:</strong> true
-</pre><p class="extension-adhd-reader-p"><strong class="example"><span class="extension-adhd-reader-wrapper"><span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">Ex</span>ample</span> 2:</span></strong></p>
-<pre><strong>Input:</strong> s = "rat", t = "car"
-<strong>Output:</strong> false
-</pre>
-<p class="extension-adhd-reader-p">&nbsp;</p>
-<p class="extension-adhd-reader-p"><strong><span class="extension-adhd-reader-wrapper"><span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">Cons</span>traints:</span></span></strong></p>
+<div class="example-block">
+<p><strong>Input:</strong> <span class="example-io">s = &quot;anagram&quot;, t = &quot;nagaram&quot;</span></p>
+
+<p><strong>Output:</strong> <span class="example-io">true</span></p>
+</div>
+
+<p><strong class="example">Example 2:</strong></p>
+
+<div class="example-block">
+<p><strong>Input:</strong> <span class="example-io">s = &quot;rat&quot;, t = &quot;car&quot;</span></p>
+
+<p><strong>Output:</strong> <span class="example-io">false</span></p>
+</div>
+
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
 
 <ul>
 	<li><code>1 &lt;= s.length, t.length &lt;= 5 * 10<sup>4</sup></code></li>
 	<li><code>s</code> and <code>t</code> consist of lowercase English letters.</li>
 </ul>
 
-<p class="extension-adhd-reader-p">&nbsp;</p>
-<p class="extension-adhd-reader-p"><strong><span class="extension-adhd-reader-wrapper"><span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">Fo</span>llow</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">u</span>p:</span></span></strong><span class="extension-adhd-reader-wrapper"> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">W</span>hat</span> if <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">t</span>he</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">in</span>puts</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">co</span>ntain</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">Un</span>icode</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">cha</span>racters?</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">H</span>ow</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">w</span>ould</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">y</span>ou</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">a</span>dapt</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">y</span>our</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">so</span>lution</span> to <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">s</span>uch</span> a <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">c</span>ase?</span></span></p>
-</div>
+<p>&nbsp;</p>
+<p><strong>Follow up:</strong> What if the inputs contain Unicode characters? How would you adapt your solution to such a case?</p>
