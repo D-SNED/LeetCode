@@ -6,6 +6,7 @@ A repo for all my LeetCode problems
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/D-SNED/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/D-SNED/LeetCode/tree/master/0242-valid-anagram) |
 | [0468-validate-ip-address](https://github.com/D-SNED/LeetCode/tree/master/0468-validate-ip-address) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/D-SNED/LeetCode/tree/master/1746-largest-substring-between-two-equal-characters) |
@@ -15,6 +16,7 @@ A repo for all my LeetCode problems
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/D-SNED/LeetCode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/D-SNED/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/D-SNED/LeetCode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/D-SNED/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/D-SNED/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -24,6 +26,7 @@ A repo for all my LeetCode problems
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/D-SNED/LeetCode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/D-SNED/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/D-SNED/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/D-SNED/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/D-SNED/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -64,6 +67,7 @@ A repo for all my LeetCode problems
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/D-SNED/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/D-SNED/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/D-SNED/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/D-SNED/LeetCode/tree/master/0349-intersection-of-two-arrays) |
