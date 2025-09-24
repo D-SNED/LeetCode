@@ -18,6 +18,7 @@ A repo for all my LeetCode problems
 | [0001-two-sum](https://github.com/D-SNED/LeetCode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/D-SNED/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/D-SNED/LeetCode/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/D-SNED/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0349-intersection-of-two-arrays](https://github.com/D-SNED/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/D-SNED/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/D-SNED/LeetCode/tree/master/0792-binary-search) |
@@ -71,4 +72,8 @@ A repo for all my LeetCode problems
 | [0217-contains-duplicate](https://github.com/D-SNED/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/D-SNED/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/D-SNED/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/D-SNED/LeetCode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
