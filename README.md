@@ -17,6 +17,7 @@ A repo for all my LeetCode problems
 | ------- |
 | [0001-two-sum](https://github.com/D-SNED/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/D-SNED/LeetCode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/D-SNED/LeetCode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/D-SNED/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/D-SNED/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/D-SNED/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -66,10 +67,12 @@ A repo for all my LeetCode problems
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/D-SNED/LeetCode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/D-SNED/LeetCode/tree/master/0015-3sum) |
 | [0349-intersection-of-two-arrays](https://github.com/D-SNED/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/D-SNED/LeetCode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/D-SNED/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/D-SNED/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/D-SNED/LeetCode/tree/master/0242-valid-anagram) |
