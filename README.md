@@ -6,6 +6,7 @@ A repo for all my LeetCode problems
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/D-SNED/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/D-SNED/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/D-SNED/LeetCode/tree/master/0242-valid-anagram) |
 | [0468-validate-ip-address](https://github.com/D-SNED/LeetCode/tree/master/0468-validate-ip-address) |
@@ -85,4 +86,8 @@ A repo for all my LeetCode problems
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/D-SNED/LeetCode/tree/master/0011-container-with-most-water) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/D-SNED/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
