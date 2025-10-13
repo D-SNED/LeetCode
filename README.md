@@ -51,6 +51,7 @@ A repo for all my LeetCode problems
 | ------- |
 | [0069-sqrtx](https://github.com/D-SNED/LeetCode/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/D-SNED/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/D-SNED/LeetCode/tree/master/0441-arranging-coins) |
 ## Binary Search
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A repo for all my LeetCode problems
 | [0350-intersection-of-two-arrays-ii](https://github.com/D-SNED/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/D-SNED/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/D-SNED/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+| [0441-arranging-coins](https://github.com/D-SNED/LeetCode/tree/master/0441-arranging-coins) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/D-SNED/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/D-SNED/LeetCode/tree/master/0792-binary-search) |
 ## Interactive
