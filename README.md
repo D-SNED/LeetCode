@@ -26,6 +26,7 @@ A repo for all my LeetCode problems
 | [0350-intersection-of-two-arrays-ii](https://github.com/D-SNED/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/D-SNED/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/D-SNED/LeetCode/tree/master/0792-binary-search) |
+| [0924-fair-candy-swap](https://github.com/D-SNED/LeetCode/tree/master/0924-fair-candy-swap) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/D-SNED/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Hash Table
 |  |
@@ -36,6 +37,7 @@ A repo for all my LeetCode problems
 | [0242-valid-anagram](https://github.com/D-SNED/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/D-SNED/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/D-SNED/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0924-fair-candy-swap](https://github.com/D-SNED/LeetCode/tree/master/0924-fair-candy-swap) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/D-SNED/LeetCode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/D-SNED/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Bit Manipulation
@@ -64,6 +66,7 @@ A repo for all my LeetCode problems
 | [0441-arranging-coins](https://github.com/D-SNED/LeetCode/tree/master/0441-arranging-coins) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/D-SNED/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/D-SNED/LeetCode/tree/master/0792-binary-search) |
+| [0924-fair-candy-swap](https://github.com/D-SNED/LeetCode/tree/master/0924-fair-candy-swap) |
 ## Interactive
 |  |
 | ------- |
@@ -85,6 +88,7 @@ A repo for all my LeetCode problems
 | [0242-valid-anagram](https://github.com/D-SNED/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/D-SNED/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/D-SNED/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0924-fair-candy-swap](https://github.com/D-SNED/LeetCode/tree/master/0924-fair-candy-swap) |
 ## Prefix Sum
 |  |
 | ------- |
