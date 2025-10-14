@@ -27,6 +27,7 @@ A repo for all my LeetCode problems
 | [0745-find-smallest-letter-greater-than-target](https://github.com/D-SNED/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/D-SNED/LeetCode/tree/master/0792-binary-search) |
 | [0924-fair-candy-swap](https://github.com/D-SNED/LeetCode/tree/master/0924-fair-candy-swap) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/D-SNED/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/D-SNED/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/D-SNED/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Hash Table
@@ -39,6 +40,7 @@ A repo for all my LeetCode problems
 | [0349-intersection-of-two-arrays](https://github.com/D-SNED/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/D-SNED/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0924-fair-candy-swap](https://github.com/D-SNED/LeetCode/tree/master/0924-fair-candy-swap) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/D-SNED/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/D-SNED/LeetCode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/D-SNED/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Bit Manipulation
@@ -68,6 +70,7 @@ A repo for all my LeetCode problems
 | [0745-find-smallest-letter-greater-than-target](https://github.com/D-SNED/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/D-SNED/LeetCode/tree/master/0792-binary-search) |
 | [0924-fair-candy-swap](https://github.com/D-SNED/LeetCode/tree/master/0924-fair-candy-swap) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/D-SNED/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/D-SNED/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Interactive
 |  |
@@ -81,6 +84,7 @@ A repo for all my LeetCode problems
 | [0015-3sum](https://github.com/D-SNED/LeetCode/tree/master/0015-3sum) |
 | [0349-intersection-of-two-arrays](https://github.com/D-SNED/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/D-SNED/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/D-SNED/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Sorting
 |  |
 | ------- |
@@ -91,6 +95,7 @@ A repo for all my LeetCode problems
 | [0349-intersection-of-two-arrays](https://github.com/D-SNED/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/D-SNED/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0924-fair-candy-swap](https://github.com/D-SNED/LeetCode/tree/master/0924-fair-candy-swap) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/D-SNED/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/D-SNED/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Prefix Sum
 |  |
