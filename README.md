@@ -13,6 +13,7 @@ A repo for all my LeetCode problems
 | [1746-largest-substring-between-two-equal-characters](https://github.com/D-SNED/LeetCode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/D-SNED/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2580-circular-sentence](https://github.com/D-SNED/LeetCode/tree/master/2580-circular-sentence) |
+| [2678-number-of-senior-citizens](https://github.com/D-SNED/LeetCode/tree/master/2678-number-of-senior-citizens) |
 ## Array
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A repo for all my LeetCode problems
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/D-SNED/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/D-SNED/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/D-SNED/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2678-number-of-senior-citizens](https://github.com/D-SNED/LeetCode/tree/master/2678-number-of-senior-citizens) |
 ## Hash Table
 |  |
 | ------- |
