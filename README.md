@@ -10,6 +10,7 @@ A repo for all my LeetCode problems
 | [0049-group-anagrams](https://github.com/D-SNED/LeetCode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/D-SNED/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/D-SNED/LeetCode/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/D-SNED/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0468-validate-ip-address](https://github.com/D-SNED/LeetCode/tree/master/0468-validate-ip-address) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/D-SNED/LeetCode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/D-SNED/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -43,6 +44,7 @@ A repo for all my LeetCode problems
 | [0242-valid-anagram](https://github.com/D-SNED/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/D-SNED/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/D-SNED/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/D-SNED/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0924-fair-candy-swap](https://github.com/D-SNED/LeetCode/tree/master/0924-fair-candy-swap) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/D-SNED/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/D-SNED/LeetCode/tree/master/1746-largest-substring-between-two-equal-characters) |
@@ -117,4 +119,8 @@ A repo for all my LeetCode problems
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/D-SNED/LeetCode/tree/master/0020-valid-parentheses) |
+## Sliding Window
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/D-SNED/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
