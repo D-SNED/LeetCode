@@ -5,9 +5,9 @@ class Solution:
         r = len(s) - 1
 
         while l < r:
-            while l < r and not s[l].isalnum():
+            while l < r and not self.isvalid(s[l]):
                 l += 1
-            while r > l and not s[r].isalnum():
+            while r > l and not self.isvalid(s[r]):
                 r -= 1
 
             if s[l].lower() != s[r].lower():
@@ -16,3 +16,8 @@ class Solution:
             r -= 1
         
         return True
+
+    def isvalid(self, c):
+        return (ord('0') <= ord(c) <= ord('9') or
+        ord('a') <= ord(c) <= ord('z') or
+        ord('A') <= ord(c) <= ord('Z'))
