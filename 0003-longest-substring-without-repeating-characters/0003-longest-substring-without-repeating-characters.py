@@ -2,6 +2,7 @@ class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
         char_set = set()
         res = 0
+
         l = 0
 
         for r in range(len(s)):
@@ -10,9 +11,9 @@ class Solution:
                 l += 1
             char_set.add(s[r])
 
-            res = max(res, r- l + 1)
+            window = r - l + 1
+
+            res = max(res, window)
 
         return res
-            
-            
 
