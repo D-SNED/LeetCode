@@ -30,6 +30,7 @@ A repo for all my LeetCode problems
 | [0350-intersection-of-two-arrays-ii](https://github.com/D-SNED/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/D-SNED/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/D-SNED/LeetCode/tree/master/0792-binary-search) |
+| [0912-sort-an-array](https://github.com/D-SNED/LeetCode/tree/master/0912-sort-an-array) |
 | [0924-fair-candy-swap](https://github.com/D-SNED/LeetCode/tree/master/0924-fair-candy-swap) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/D-SNED/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/D-SNED/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
@@ -105,6 +106,7 @@ A repo for all my LeetCode problems
 | [0242-valid-anagram](https://github.com/D-SNED/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/D-SNED/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/D-SNED/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0912-sort-an-array](https://github.com/D-SNED/LeetCode/tree/master/0912-sort-an-array) |
 | [0924-fair-candy-swap](https://github.com/D-SNED/LeetCode/tree/master/0924-fair-candy-swap) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/D-SNED/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/D-SNED/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
@@ -126,4 +128,28 @@ A repo for all my LeetCode problems
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/D-SNED/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/D-SNED/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/D-SNED/LeetCode/tree/master/0912-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/D-SNED/LeetCode/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/D-SNED/LeetCode/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/D-SNED/LeetCode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/D-SNED/LeetCode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/D-SNED/LeetCode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
