@@ -1,23 +1,13 @@
 class Solution:
     def canConstruct(self, ransomNote: str, magazine: str) -> bool:
-        magazine_dict = {}
-        
-        for letter in magazine:
-            if letter not in magazine_dict:
-                magazine_dict[letter] = 0
-            magazine_dict[letter] += 1
-            
-        print(magazine_dict)
-            
-        for letter in ransomNote:
-            if letter in magazine_dict:
-                magazine_dict[letter] -= 1
-            else:
+        count_m = Counter(magazine)
+
+        for char in ransomNote:
+            if char not in count_m:
                 return False
-            
-        print(magazine_dict)
-            
-        for key in magazine_dict:
-            if magazine_dict[key] < 0:
+            elif char in count_m and count_m[char] == 0:
                 return False
+            count_m[char] -= 1
+
         return True
+            
