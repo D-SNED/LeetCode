@@ -1,23 +1,24 @@
-<h2><a href="https://leetcode.com/problems/majority-element/">169. Majority Element</a></h2><h3>Easy</h3><hr><div><p class="extension-adhd-reader-p"><span class="extension-adhd-reader-wrapper"><span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">G</span>iven</span> an <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">a</span>rray</span> </span><code><span class="extension-adhd-reader-wrapper"><span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">n</span>ums</span></span></code><span class="extension-adhd-reader-wrapper"> of <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">s</span>ize</span> </span><code>n</code><span class="extension-adhd-reader-wrapper">, <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">re</span>turn</span> </span><em><span class="extension-adhd-reader-wrapper"><span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">t</span>he</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">ma</span>jority</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">el</span>ement</span></span></em>.</p>
+<h2><a href="https://leetcode.com/problems/majority-element">169. Majority Element</a></h2><h3>Easy</h3><hr><p>Given an array <code>nums</code> of size <code>n</code>, return <em>the majority element</em>.</p>
 
-<p class="extension-adhd-reader-p"><span class="extension-adhd-reader-wrapper"><span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">T</span>he</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">ma</span>jority</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">el</span>ement</span> is <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">t</span>he</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">el</span>ement</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">t</span>hat</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">ap</span>pears</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">m</span>ore</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">t</span>han</span> </span><code><span class="extension-adhd-reader-wrapper">⌊n / 2⌋</span></code><span class="extension-adhd-reader-wrapper"> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">ti</span>mes.</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">Y</span>ou</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">m</span>ay</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">as</span>sume</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">t</span>hat</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">t</span>he</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">ma</span>jority</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">el</span>ement</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">al</span>ways</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">ex</span>ists</span> in <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">t</span>he</span> <span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">ar</span>ray.</span></span></p>
+<p>The majority element is the element that appears more than <code>&lfloor;n / 2&rfloor;</code> times. You may assume that the majority element always exists in the array.</p>
 
-<p class="extension-adhd-reader-p">&nbsp;</p>
-<p class="extension-adhd-reader-p"><strong class="example"><span class="extension-adhd-reader-wrapper"><span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">Ex</span>ample</span> 1:</span></strong></p>
+<p>&nbsp;</p>
+<p><strong class="example">Example 1:</strong></p>
 <pre><strong>Input:</strong> nums = [3,2,3]
 <strong>Output:</strong> 3
-</pre><p class="extension-adhd-reader-p"><strong class="example"><span class="extension-adhd-reader-wrapper"><span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">Ex</span>ample</span> 2:</span></strong></p>
+</pre><p><strong class="example">Example 2:</strong></p>
 <pre><strong>Input:</strong> nums = [2,2,1,1,1,2,2]
 <strong>Output:</strong> 2
 </pre>
-<p class="extension-adhd-reader-p">&nbsp;</p>
-<p class="extension-adhd-reader-p"><strong><span class="extension-adhd-reader-wrapper"><span class="extension-adhd-reader-container"><span class="extension-adhd-reader-boldify">Cons</span>traints:</span></span></strong></p>
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
 
 <ul>
 	<li><code>n == nums.length</code></li>
 	<li><code>1 &lt;= n &lt;= 5 * 10<sup>4</sup></code></li>
 	<li><code>-10<sup>9</sup> &lt;= nums[i] &lt;= 10<sup>9</sup></code></li>
+	<li>The input is generated such that a majority element will exist in the array.</li>
 </ul>
 
-<p class="extension-adhd-reader-p">&nbsp;</p>
-<strong>Follow-up:</strong> Could you solve the problem in linear time and in <code>O(1)</code> space?</div>
+<p>&nbsp;</p>
+<strong>Follow-up:</strong> Could you solve the problem in linear time and in <code>O(1)</code> space?
