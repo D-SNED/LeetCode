@@ -1,8 +1,10 @@
 class Solution:
     def totalFruit(self, fruits: List[int]) -> int:
         res = 0
-        l = 0
+
         d = {}
+
+        l = 0
 
         for r in range(len(fruits)):
             d[fruits[r]] = 1 + d.get(fruits[r], 0)
@@ -15,6 +17,3 @@ class Solution:
             res = max(res, r - l + 1)
 
         return res
-
-
-
