@@ -3,10 +3,12 @@ class Solution:
 
         d = {}
 
-        for string in strs:
-            sorted_string = "".join(sorted(string))
-            if sorted_string not in d:
-                d[sorted_string] = []
-            d[sorted_string].append(string)
+        for word in strs:
+            sorted_word = "".join(sorted(word))
+
+            if sorted_word not in d:
+                d[sorted_word] = []
+            d[sorted_word].append(word)
 
         return list(d.values())
+        
