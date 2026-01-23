@@ -4,44 +4,18 @@
 #         self.val = val
 #         self.next = next
 
-import math
-
 class Solution:
     def middleNode(self, head: Optional[ListNode]) -> Optional[ListNode]:
+        arr = []
+
+        curr = head
+
+        while curr:
+            arr.append(curr)
+            curr = curr.next
+
+        return arr[len(arr)//2]
+
+
+
         
-        pointer = head
-        length = 0
-        
-        while pointer != None:
-            pointer = pointer.next
-            length += 1
-        
-        if length % 2 == 0:
-            middle = math.ceil(length / 2) + 1
-        else:
-            middle = math.ceil(length / 2)
-        
-        pointer = head
-        stop_point = middle
-        
-        while pointer != None and stop_point != 1:
-            pointer = pointer.next
-            stop_point -= 1
-            
-        return pointer
-            
-        
-            
-        
-        
-        
-        
-        
-        # while middle != 0:
-        #     pointer = pointer.next
-        #     middle -= 1
-        # return pointer.val
-        
-        
-            
-            
