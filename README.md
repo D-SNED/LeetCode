@@ -26,6 +26,7 @@ A repo for all my LeetCode problems
 | [0011-container-with-most-water](https://github.com/D-SNED/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/D-SNED/LeetCode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/D-SNED/LeetCode/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/D-SNED/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/D-SNED/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/D-SNED/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/D-SNED/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -101,6 +102,7 @@ A repo for all my LeetCode problems
 | ------- |
 | [0011-container-with-most-water](https://github.com/D-SNED/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/D-SNED/LeetCode/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/D-SNED/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/D-SNED/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/D-SNED/LeetCode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/D-SNED/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -112,6 +114,7 @@ A repo for all my LeetCode problems
 | ------- |
 | [0015-3sum](https://github.com/D-SNED/LeetCode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/D-SNED/LeetCode/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/D-SNED/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/D-SNED/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/D-SNED/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/D-SNED/LeetCode/tree/master/0242-valid-anagram) |
