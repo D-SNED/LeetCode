@@ -3,7 +3,9 @@ class Solution:
         res = 0
 
         d = {}
+
         l = 0
+
         max_f = 0
 
         for r in range(len(s)):
@@ -13,6 +15,7 @@ class Solution:
             while (r - l + 1) - max_f > k:
                 d[s[l]] -= 1
                 l += 1
+
             res = max(res, r - l + 1)
 
         return res
