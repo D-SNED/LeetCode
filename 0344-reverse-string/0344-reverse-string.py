@@ -3,4 +3,7 @@ class Solution:
         """
         Do not return anything, modify s in-place instead.
         """
-        s.reverse()
+        end = -1
+        for i in range(len(s)//2):
+            s[i] , s[end] = s[end], s[i]
+            end -= 1
