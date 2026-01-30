@@ -1,23 +1,11 @@
 class Solution:
     def isPalindrome(self, s: str) -> bool:
+        res = ""
 
-        l = 0
-        r = len(s) - 1
+        s = "".join(s)
 
-        while l < r:
-            while l < r and not self.isvalid(s[l]):
-                l += 1
-            while r > l and not self.isvalid(s[r]):
-                r -= 1
+        for char in s:
+            if char.isalnum():
+                res += char.lower()
 
-            if s[l].lower() != s[r].lower():
-                return False
-            l += 1
-            r -= 1
-        
-        return True
-
-    def isvalid(self, c):
-        return (ord('0') <= ord(c) <= ord('9') or
-        ord('a') <= ord(c) <= ord('z') or
-        ord('A') <= ord(c) <= ord('Z'))
+        return res == res[::-1]
