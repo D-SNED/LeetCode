@@ -7,10 +7,8 @@ class Solution:
     def middleNode(self, head: Optional[ListNode]) -> Optional[ListNode]:
         arr = []
 
-        curr = head
+        while head:
+            arr.append(head)
+            head = head.next
 
-        while curr:
-            arr.append(curr)
-            curr = curr.next
-
-        return arr[len(arr) // 2]
+        return arr[len(arr)//2]
