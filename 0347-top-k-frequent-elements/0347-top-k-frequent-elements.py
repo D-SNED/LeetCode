@@ -1,3 +1,4 @@
+import heapq
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
         d = {}
@@ -5,17 +6,21 @@ class Solution:
         for num in nums:
             d[num] = 1 + d.get(num, 0)
 
+        arr = []
 
-        d_vals = sorted(list(d.values()))
+        for num, count in d.items():
+            arr.append([count, num])
 
-        max_o = d_vals[-1:-k - 1:-1]
+        arr.sort()
 
         res = []
 
-        for key in d:
-            if d[key] in max_o:
-                res.append(key)
+        while len(res) < k:
+            res.append(arr.pop()[1])
 
         return res
+
+
+        
         
         
