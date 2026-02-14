@@ -8,7 +8,7 @@ class Solution:
 
             if sorted_word not in d:
                 d[sorted_word] = []
+            
             d[sorted_word].append(word)
 
         return list(d.values())
-        
