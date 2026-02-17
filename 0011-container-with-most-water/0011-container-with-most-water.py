@@ -4,7 +4,7 @@ class Solution:
         l = 0
         r = len(height) - 1
 
-        while l <= r:
+        while l < r:
             level = min(height[l], height[r]) * (r - l)
 
             res = max(res, level)
