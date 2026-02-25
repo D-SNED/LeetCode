@@ -106,6 +106,7 @@ A repo for all my LeetCode problems
 | ------- |
 | [0011-container-with-most-water](https://github.com/D-SNED/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/D-SNED/LeetCode/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/D-SNED/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0088-merge-sorted-array](https://github.com/D-SNED/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/D-SNED/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/D-SNED/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -182,6 +183,7 @@ A repo for all my LeetCode problems
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/D-SNED/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/D-SNED/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/D-SNED/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/D-SNED/LeetCode/tree/master/0876-middle-of-the-linked-list) |
