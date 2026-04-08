@@ -41,6 +41,7 @@ A repo for all my LeetCode problems
 | [0924-fair-candy-swap](https://github.com/D-SNED/LeetCode/tree/master/0924-fair-candy-swap) |
 | [1200-minimum-absolute-difference](https://github.com/D-SNED/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/D-SNED/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1480-running-sum-of-1d-array](https://github.com/D-SNED/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/D-SNED/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/D-SNED/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/D-SNED/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -141,6 +142,7 @@ A repo for all my LeetCode problems
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/D-SNED/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [1480-running-sum-of-1d-array](https://github.com/D-SNED/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 ## Greedy
 |  |
 | ------- |
