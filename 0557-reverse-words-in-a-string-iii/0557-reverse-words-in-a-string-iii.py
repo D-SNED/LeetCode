@@ -7,12 +7,14 @@ class Solution:
         for word in split_s:
             arr.append(word[::-1])
 
-        res = ""
+        return " ".join(arr)
 
-        for i in range(len(arr)):
-            if i == len(arr) - 1:
-                res += arr[i]
-            else:
-                res += arr[i] + " "
+        # res = ""
 
-        return res
+        # for i in range(len(arr)):
+        #     if i == len(arr) - 1:
+        #         res += arr[i]
+        #     else:
+        #         res += arr[i] + " "
+
+        # return res
