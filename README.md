@@ -13,6 +13,7 @@ A repo for all my LeetCode problems
 | [0242-valid-anagram](https://github.com/D-SNED/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/D-SNED/LeetCode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/D-SNED/LeetCode/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/D-SNED/LeetCode/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/D-SNED/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0468-validate-ip-address](https://github.com/D-SNED/LeetCode/tree/master/0468-validate-ip-address) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/D-SNED/LeetCode/tree/master/1746-largest-substring-between-two-equal-characters) |
@@ -113,6 +114,7 @@ A repo for all my LeetCode problems
 | [0344-reverse-string](https://github.com/D-SNED/LeetCode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/D-SNED/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/D-SNED/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/D-SNED/LeetCode/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/D-SNED/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/D-SNED/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/D-SNED/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
@@ -217,4 +219,8 @@ A repo for all my LeetCode problems
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/D-SNED/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/D-SNED/LeetCode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
