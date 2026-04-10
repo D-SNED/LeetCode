@@ -1,15 +1,8 @@
 class Solution:
     def sortedSquares(self, nums: List[int]) -> List[int]:
-        arr = []
+        for i in range(len(nums)):
+            nums[i] = nums[i] ** 2
 
-        for num in nums:
-            arr.append(abs(num))
+        nums.sort()
 
-        res = []
-
-        for num in arr:
-            res.append(num ** 2)
-
-        res.sort()
-
-        return res
+        return nums
