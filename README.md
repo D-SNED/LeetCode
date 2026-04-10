@@ -29,6 +29,7 @@ A repo for all my LeetCode problems
 | [0001-two-sum](https://github.com/D-SNED/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/D-SNED/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/D-SNED/LeetCode/tree/master/0015-3sum) |
+| [0035-search-insert-position](https://github.com/D-SNED/LeetCode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/D-SNED/LeetCode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/D-SNED/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/D-SNED/LeetCode/tree/master/0169-majority-element) |
@@ -94,6 +95,7 @@ A repo for all my LeetCode problems
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/D-SNED/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/D-SNED/LeetCode/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/D-SNED/LeetCode/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/D-SNED/LeetCode/tree/master/0349-intersection-of-two-arrays) |
