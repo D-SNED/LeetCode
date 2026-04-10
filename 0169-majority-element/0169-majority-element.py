@@ -1,7 +1,5 @@
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
-        d = Counter(nums)
+        nums.sort()
 
-        for num in nums:
-            if d[num] > len(nums) // 2:
-                return num
+        return nums[len(nums)//2]
