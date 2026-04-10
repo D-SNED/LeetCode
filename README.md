@@ -44,6 +44,7 @@ A repo for all my LeetCode problems
 | [0904-fruit-into-baskets](https://github.com/D-SNED/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/D-SNED/LeetCode/tree/master/0912-sort-an-array) |
 | [0924-fair-candy-swap](https://github.com/D-SNED/LeetCode/tree/master/0924-fair-candy-swap) |
+| [0977-squares-of-a-sorted-array](https://github.com/D-SNED/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/D-SNED/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/D-SNED/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1480-running-sum-of-1d-array](https://github.com/D-SNED/LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -128,6 +129,7 @@ A repo for all my LeetCode problems
 | [0392-is-subsequence](https://github.com/D-SNED/LeetCode/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/D-SNED/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0876-middle-of-the-linked-list](https://github.com/D-SNED/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/D-SNED/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/D-SNED/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/D-SNED/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 ## Sorting
@@ -144,6 +146,7 @@ A repo for all my LeetCode problems
 | [0350-intersection-of-two-arrays-ii](https://github.com/D-SNED/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0912-sort-an-array](https://github.com/D-SNED/LeetCode/tree/master/0912-sort-an-array) |
 | [0924-fair-candy-swap](https://github.com/D-SNED/LeetCode/tree/master/0924-fair-candy-swap) |
+| [0977-squares-of-a-sorted-array](https://github.com/D-SNED/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/D-SNED/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/D-SNED/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/D-SNED/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
