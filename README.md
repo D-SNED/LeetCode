@@ -53,6 +53,7 @@ A repo for all my LeetCode problems
 | [1480-running-sum-of-1d-array](https://github.com/D-SNED/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/D-SNED/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/D-SNED/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1929-concatenation-of-array](https://github.com/D-SNED/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/D-SNED/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2678-number-of-senior-citizens](https://github.com/D-SNED/LeetCode/tree/master/2678-number-of-senior-citizens) |
 ## Hash Table
@@ -250,4 +251,8 @@ A repo for all my LeetCode problems
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/D-SNED/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/D-SNED/LeetCode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
