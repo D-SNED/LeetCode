@@ -50,6 +50,7 @@ A repo for all my LeetCode problems
 | [0977-squares-of-a-sorted-array](https://github.com/D-SNED/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/D-SNED/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/D-SNED/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1470-shuffle-the-array](https://github.com/D-SNED/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/D-SNED/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/D-SNED/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/D-SNED/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
