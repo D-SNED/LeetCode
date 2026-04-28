@@ -4,7 +4,6 @@ class Solution:
         cur_max = 0
 
         for i in range(len(nums)):
-
             if nums[i] == 0:
                 res = max(res, cur_max)
                 cur_max = 0
