@@ -53,6 +53,7 @@ A repo for all my LeetCode problems
 | [1470-shuffle-the-array](https://github.com/D-SNED/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/D-SNED/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/D-SNED/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [1748-sum-of-unique-elements](https://github.com/D-SNED/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/D-SNED/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1929-concatenation-of-array](https://github.com/D-SNED/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/D-SNED/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -77,6 +78,7 @@ A repo for all my LeetCode problems
 | [0924-fair-candy-swap](https://github.com/D-SNED/LeetCode/tree/master/0924-fair-candy-swap) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/D-SNED/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/D-SNED/LeetCode/tree/master/1746-largest-substring-between-two-equal-characters) |
+| [1748-sum-of-unique-elements](https://github.com/D-SNED/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/D-SNED/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Bit Manipulation
 |  |
@@ -89,6 +91,7 @@ A repo for all my LeetCode problems
 | [0347-top-k-frequent-elements](https://github.com/D-SNED/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/D-SNED/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/D-SNED/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [1748-sum-of-unique-elements](https://github.com/D-SNED/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/D-SNED/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Math
 |  |
