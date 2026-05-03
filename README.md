@@ -38,6 +38,7 @@ A repo for all my LeetCode problems
 | [0169-majority-element](https://github.com/D-SNED/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/D-SNED/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/D-SNED/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/D-SNED/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/D-SNED/LeetCode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/D-SNED/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/D-SNED/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -71,6 +72,7 @@ A repo for all my LeetCode problems
 | [0169-majority-element](https://github.com/D-SNED/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/D-SNED/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/D-SNED/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/D-SNED/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/D-SNED/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/D-SNED/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/D-SNED/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -86,6 +88,7 @@ A repo for all my LeetCode problems
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/D-SNED/LeetCode/tree/master/0268-missing-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/D-SNED/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Counting
 |  |
@@ -100,6 +103,7 @@ A repo for all my LeetCode problems
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/D-SNED/LeetCode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/D-SNED/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/D-SNED/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/D-SNED/LeetCode/tree/master/0441-arranging-coins) |
 ## Binary Search
@@ -107,6 +111,7 @@ A repo for all my LeetCode problems
 | ------- |
 | [0035-search-insert-position](https://github.com/D-SNED/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/D-SNED/LeetCode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/D-SNED/LeetCode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/D-SNED/LeetCode/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/D-SNED/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/D-SNED/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -155,6 +160,7 @@ A repo for all my LeetCode problems
 | [0169-majority-element](https://github.com/D-SNED/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/D-SNED/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/D-SNED/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/D-SNED/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/D-SNED/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/D-SNED/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/D-SNED/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
