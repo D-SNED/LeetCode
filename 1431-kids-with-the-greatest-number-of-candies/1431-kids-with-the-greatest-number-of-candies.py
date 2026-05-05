@@ -5,7 +5,9 @@ class Solution:
         max_before_candies = max(candies)
 
         for amount in candies:
-            res.append(amount + extraCandies >= max_before_candies)
-                
+            if amount + extraCandies < max_before_candies:
+                res.append(False)
+            else:
+                res.append(True)
         
         return res
