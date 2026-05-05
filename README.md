@@ -58,6 +58,7 @@ A repo for all my LeetCode problems
 | [1470-shuffle-the-array](https://github.com/D-SNED/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/D-SNED/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/D-SNED/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [1512-number-of-good-pairs](https://github.com/D-SNED/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/D-SNED/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/D-SNED/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/D-SNED/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -84,6 +85,7 @@ A repo for all my LeetCode problems
 | [0904-fruit-into-baskets](https://github.com/D-SNED/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0924-fair-candy-swap](https://github.com/D-SNED/LeetCode/tree/master/0924-fair-candy-swap) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/D-SNED/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1512-number-of-good-pairs](https://github.com/D-SNED/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/D-SNED/LeetCode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1748-sum-of-unique-elements](https://github.com/D-SNED/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/D-SNED/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -99,6 +101,7 @@ A repo for all my LeetCode problems
 | [0347-top-k-frequent-elements](https://github.com/D-SNED/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/D-SNED/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/D-SNED/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [1512-number-of-good-pairs](https://github.com/D-SNED/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/D-SNED/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/D-SNED/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Math
@@ -108,6 +111,7 @@ A repo for all my LeetCode problems
 | [0268-missing-number](https://github.com/D-SNED/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/D-SNED/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/D-SNED/LeetCode/tree/master/0441-arranging-coins) |
+| [1512-number-of-good-pairs](https://github.com/D-SNED/LeetCode/tree/master/1512-number-of-good-pairs) |
 ## Binary Search
 |  |
 | ------- |
