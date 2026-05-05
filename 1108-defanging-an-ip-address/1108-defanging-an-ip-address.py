@@ -1,13 +1,13 @@
 class Solution:
     def defangIPaddr(self, address: str) -> str:
-        result = []
-        
-        for i in range(len(address)):
-            if address[i] == ".":
-                result.append("[.]")
+        split_address = address.split(".")
+
+        defanged = ""
+
+        for i in range(len(split_address)):
+            if i < len(split_address) - 1:
+                defanged += split_address[i] + "[.]"
             else:
-                result.append(address[i])
-            
-        return "".join(result)
-                
-        
+                defanged += split_address[i]
+
+        return defanged
