@@ -20,6 +20,7 @@ A repo for all my LeetCode problems
 | [0468-validate-ip-address](https://github.com/D-SNED/LeetCode/tree/master/0468-validate-ip-address) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/D-SNED/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/D-SNED/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0771-jewels-and-stones](https://github.com/D-SNED/LeetCode/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/D-SNED/LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1678-goal-parser-interpretation](https://github.com/D-SNED/LeetCode/tree/master/1678-goal-parser-interpretation) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/D-SNED/LeetCode/tree/master/1746-largest-substring-between-two-equal-characters) |
@@ -84,6 +85,7 @@ A repo for all my LeetCode problems
 | [0383-ransom-note](https://github.com/D-SNED/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/D-SNED/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/D-SNED/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0771-jewels-and-stones](https://github.com/D-SNED/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/D-SNED/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0924-fair-candy-swap](https://github.com/D-SNED/LeetCode/tree/master/0924-fair-candy-swap) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/D-SNED/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
